@@ -1,0 +1,4 @@
+This is a text file with duplicate content.
+It contains the same sentence twice for demonstration purposes.
+This is a another text file with the same duplicate content.
+It contains the same sentence twice for used for demonstration purposes.
